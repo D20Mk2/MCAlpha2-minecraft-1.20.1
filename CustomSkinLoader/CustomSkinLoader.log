@@ -1,0 +1,63 @@
+[2024-06-04 11:37:48] [Render thread/INFO] [CustomSkinLoader Core]: CustomSkinLoader 14.19.1
+[2024-06-04 11:37:48] [Render thread/INFO] [CustomSkinLoader Core]: DataDir: C:\Users\Дом\AppData\Roaming\.tlauncher\legacy\Minecraft\game\home\Fabric 1.20.1\CustomSkinLoader
+[2024-06-04 11:37:48] [Render thread/INFO] [CustomSkinLoader Core]: Operating System: Windows 10 (amd64) version 10.0
+[2024-06-04 11:37:48] [Render thread/INFO] [CustomSkinLoader Core]: Java Version: 17.0.8, Microsoft
+[2024-06-04 11:37:48] [Render thread/INFO] [CustomSkinLoader Core]: Java VM Version: OpenJDK 64-Bit Server VM (mixed mode), Microsoft
+[2024-06-04 11:37:48] [Render thread/INFO] [CustomSkinLoader Core]: Minecraft: 1.20.1
+[2024-06-04 11:37:48] [Render thread/INFO] [CustomSkinLoader Core]: Config File: C:\Users\Дом\AppData\Roaming\.tlauncher\legacy\Minecraft\game\home\Fabric 1.20.1\CustomSkinLoader\CustomSkinLoader.json
+[2024-06-04 11:37:48] [Render thread/INFO] [CustomSkinLoader Core]: Try to load config.
+[2024-06-04 11:37:48] [Render thread/INFO] [CustomSkinLoader Core]: Successfully load config.
+[2024-06-04 11:37:48] [Render thread/INFO] [CustomSkinLoader Core]: Add a profile loader: MojangAPI
+[2024-06-04 11:37:48] [Render thread/INFO] [CustomSkinLoader Core]: Add a profile loader: Legacy
+[2024-06-04 11:37:48] [Render thread/INFO] [CustomSkinLoader Core]: Add a profile loader: CustomSkinAPI
+[2024-06-04 11:37:48] [Render thread/INFO] [CustomSkinLoader Core]: Add a profile loader: CustomSKinAPIPlus
+[2024-06-04 11:37:48] [Render thread/INFO] [CustomSkinLoader Core]: Add a profile loader: UniSkinAPI
+[2024-06-04 11:37:48] [Render thread/INFO] [CustomSkinLoader Core]: Add a profile loader: ElyByAPI
+[2024-06-04 11:37:48] [Render thread/INFO] [CustomSkinLoader Core]: Add a profile loader: GlitchlessAPI
+[2024-06-04 11:37:48] [Render thread/INFO] [CustomSkinLoader Core]: Add a profile loader: MinecraftCapesAPI
+[2024-06-04 11:37:48] [Render thread/INFO] [CustomSkinLoader Core]: Add a profile loader: WynntilsAPI
+[2024-06-04 11:37:48] [Render thread/INFO] [CustomSkinLoader Core]: Successfully update config.
+[2024-06-04 11:37:48] [Render thread/INFO] [CustomSkinLoader Core]: version : 14.19.1
+[2024-06-04 11:37:48] [Render thread/INFO] [CustomSkinLoader Core]: buildNumber : 26
+[2024-06-04 11:37:48] [Render thread/INFO] [CustomSkinLoader Core]: loadlist : [{ "name": "LocalSkin", "type": "Legacy", "checkPNG": "false", "skin": "LocalSkin/skins/{USERNAME}.png", "model": "auto", "cape": "LocalSkin/capes/{USERNAME}.png", "elytra": "LocalSkin/elytras/{USERNAME}.png" }, { "name": "ElyBy", "type": "ElyByAPI", "root": "http://skinsystem.ely.by/textures/" }, { "name": "Mojang", "type": "MojangAPI", "apiRoot": "https://api.mojang.com/", "sessionRoot": "https://sessionserver.mojang.com/" }, { "name": "LittleSkin", "type": "CustomSkinAPI", "root": "https://littleskin.cn/csl/" }, { "name": "BlessingSkin", "type": "CustomSkinAPI", "root": "https://skin.prinzeugen.net/" }, { "name": "SkinMe", "type": "UniSkinAPI", "root": "http://www.skinme.cc/uniskin/" }, { "name": "TLauncher", "type": "ElyByAPI", "root": "https://auth.tlauncher.org/skin/profile/texture/login/" }, { "name": "GlitchlessGames", "type": "GlitchlessAPI", "root": "https://games.glitchless.ru/api/minecraft/users/profiles/textures/?nickname=" }, { "name": "MinecraftCapes", "type": "MinecraftCapesAPI", "root": "https://api.minecraftcapes.net/profile/" }, { "name": "OptiFine", "type": "Legacy", "checkPNG": "false", "model": "auto", "cape": "https://optifine.net/capes/{USERNAME}.png" }, { "name": "Wynntils", "type": "WynntilsAPI", "root": "https://athena.wynntils.com/user/getInfo" }, { "name": "CloakPlus", "type": "Legacy", "checkPNG": "false", "model": "auto", "cape": "http://161.35.130.99/capes/{USERNAME}.png" }, { "name": "LabyMod", "type": "Legacy", "checkPNG": "false", "model": "auto", "cape": "https://dl.labymod.net/capes/{STANDARD_UUID}" }, { "name": "Cosmetica", "type": "Legacy", "checkPNG": "false", "model": "auto", "cape": "https://api.cosmetica.cc/get/cloak?username={USERNAME}&uuid={STANDARD_UUID}&nothirdparty" }]
+[2024-06-04 11:37:48] [Render thread/INFO] [CustomSkinLoader Core]: enableDynamicSkull : true
+[2024-06-04 11:37:48] [Render thread/INFO] [CustomSkinLoader Core]: enableTransparentSkin : true
+[2024-06-04 11:37:48] [Render thread/INFO] [CustomSkinLoader Core]: forceLoadAllTextures : true
+[2024-06-04 11:37:48] [Render thread/INFO] [CustomSkinLoader Core]: enableCape : true
+[2024-06-04 11:37:48] [Render thread/INFO] [CustomSkinLoader Core]: threadPoolSize : 8
+[2024-06-04 11:37:48] [Render thread/INFO] [CustomSkinLoader Core]: enableLogStdOut : false
+[2024-06-04 11:37:48] [Render thread/INFO] [CustomSkinLoader Core]: cacheExpiry : 30
+[2024-06-04 11:37:48] [Render thread/INFO] [CustomSkinLoader Core]: forceUpdateSkull : false
+[2024-06-04 11:37:48] [Render thread/INFO] [CustomSkinLoader Core]: enableLocalProfileCache : false
+[2024-06-04 11:37:48] [Render thread/INFO] [CustomSkinLoader Core]: enableCacheAutoClean : false
+[2024-06-04 11:37:48] [Render thread/INFO] [CustomSkinLoader Core]: forceDisableCache : false
+[2024-06-04 11:37:48] [D20/INFO] [CustomSkinLoader Core]: Loading D20's profile.
+[2024-06-04 11:37:48] [D20/INFO] [CustomSkinLoader Core]: 1/14 Try to load profile from 'LocalSkin'.
+[2024-06-04 11:37:48] [D20/INFO] [CustomSkinLoader Core]: No texture could be found.
+[2024-06-04 11:37:48] [D20/INFO] [CustomSkinLoader Core]: 2/14 Try to load profile from 'ElyBy'.
+[2024-06-04 11:37:48] [D20/DEBUG] [CustomSkinLoader Core]: Try to request 'http://skinsystem.ely.by/textures/D20'.
+[2024-06-04 11:37:49] [D20/DEBUG] [CustomSkinLoader Core]: Successfully request (Response Code: 200 , Content Length: 83)
+[2024-06-04 11:37:49] [D20/DEBUG] [CustomSkinLoader Core]: Saved to cache (Length: 83 , Path: 'C:\Users\Дом\AppData\Roaming\.tlauncher\legacy\Minecraft\game\home\Fabric 1.20.1\CustomSkinLoader\caches\10dae4e5c8b9fe43fd1cd1adfa5852ed360176bb' , Expire: 1717490359)
+[2024-06-04 11:37:49] [D20/DEBUG] [CustomSkinLoader Core]: Content: {"SKIN":{"url":"http://ely.by/storage/skins/eafece485fd2cec374ff00205fe907e7.png"}}
+[2024-06-04 11:37:49] [D20/INFO] [CustomSkinLoader Core]: 3/14 Try to load profile from 'Mojang'.
+[2024-06-04 11:37:49] [D20/DEBUG] [CustomSkinLoader Core]: Try to request 'https://api.mojang.com/profiles/minecraft'.
+[2024-06-04 11:37:49] [D20/INFO] [CustomSkinLoader Core]: Payload: ["D20"]
+[2024-06-04 11:37:49] [D20/DEBUG] [CustomSkinLoader Core]: Successfully request (Response Code: 200 , Content Length: 69)
+[2024-06-04 11:37:49] [D20/DEBUG] [CustomSkinLoader Core]: Content: [ {
+  "id" : "9e89d924d902416b998666e2608462b7",
+  "name" : "D20"
+} ]
+[2024-06-04 11:37:49] [D20/DEBUG] [CustomSkinLoader Core]: Try to request 'https://sessionserver.mojang.com/session/minecraft/profile/9e89d924d902416b998666e2608462b7'.
+[2024-06-04 11:37:50] [D20/DEBUG] [CustomSkinLoader Core]: Successfully request (Response Code: 200 , Content Length: 713)
+[2024-06-04 11:37:50] [D20/DEBUG] [CustomSkinLoader Core]: Saved to cache (Length: 713 , Path: 'C:\Users\Дом\AppData\Roaming\.tlauncher\legacy\Minecraft\game\home\Fabric 1.20.1\CustomSkinLoader\caches\d92abc978b0e08e82035e3c53371c8b6ac4e8b65' , Expire: 1717490300)
+[2024-06-04 11:37:50] [D20/DEBUG] [CustomSkinLoader Core]: Content: {
+  "id" : "9e89d924d902416b998666e2608462b7",
+  "name" : "D20",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTcxNzQ5MDI2OTI3MSwKICAicHJvZmlsZUlkIiA6ICI5ZTg5ZDkyNGQ5MDI0MTZiOTk4NjY2ZTI2MDg0NjJiNyIsCiAgInByb2ZpbGVOYW1lIiA6ICJEMjAiLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZTc2ODZlMTEwYjcyMGI2YTYzZmQzY2MyM2JjMzliODE1MDQ1NGZiMDVjYTEzZDJmMzg5MWJlMTU3MzI4OTI4MCIKICAgIH0sCiAgICAiQ0FQRSIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvY2Q5ZDgyYWIxN2ZkOTIwMjJkYmQ0YTg2Y2RlNGMzODJhNzU0MGUxMTdmYWU3YjlhMjg1MzY1ODUwNWE4MDYyNSIKICAgIH0KICB9Cn0="
+  } ],
+  "profileActions" : [ ]
+}
+[2024-06-04 11:37:50] [D20/INFO] [CustomSkinLoader Core]: D20's profile loaded.
+[2024-06-04 11:37:50] [D20/INFO] [CustomSkinLoader Core]: (SkinUrl: http://ely.by/storage/skins/eafece485fd2cec374ff00205fe907e7.png , Model: default , CapeUrl: http://textures.minecraft.net/texture/cd9d82ab17fd92022dbd4a86cde4c382a7540e117fae7b9a2853658505a80625  , Expiry: 1717490300)
